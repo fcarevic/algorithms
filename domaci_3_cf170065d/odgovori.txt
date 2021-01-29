@@ -1,0 +1,8 @@
+**cf170065d**
+Most efficient ways of connecting cities are:
+ 2 10	-	 3 9	-	 5 1	-	 1 6	- 	6 4	- 	7 4	- 	4 9	- 	9 8	- 8 10
+Cost is : 698
+
+Note: In notation " 2 10 - 3 9 ", connected nodes are 2 and 10 , not 10 and 3 !!
+
+

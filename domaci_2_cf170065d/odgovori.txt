@@ -1,0 +1,4 @@
+a) Najkraca putanja za 8 rupa je: 8 7 3 2 1 5 6 4
+   Duzina ove putanje iznosi 81.4925
+b) Najkraca putanja za 12 rupa je:  4 6 9 10 11 8 7 5 1 2 3 12 
+   Duzina ove putanje iznosi 130.163

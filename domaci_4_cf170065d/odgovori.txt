@@ -1,0 +1,9 @@
+**cf170065**
+
+1)	J1
+        	 Zero between (a,b) = (4 , 6)  is  x = 4.4934094579085
+         	Zero between (a,b) = (6 , 8)  is  x = 7.7252518369378
+	
+2)	J2
+        	 Zero between (a,b) = (4 , 6)  is  x = 5.7634591968954
+         	Zero between (a,b) = (8 , 10)  is  x = 9.0950113304762

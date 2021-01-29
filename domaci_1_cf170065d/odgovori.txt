@@ -1,0 +1,14 @@
+Resenje je: 		1.2	1.25	1.5 	3.16
+
+a)
+	Maksimalan broj iteracija pod a je : 710^4 	(4 petlje, od kojih 3 ugnjezdene, od po 710 iteracija)
+	Broj izvrsenih iteracija pod a je :  4.2654e+10
+
+b)
+	Maksimalan broj iteracija pod b je : 710^3 	(3 petelje, od kojih 2 ugnjezdene, od po 710 iteracija)
+	Broj izvrsenih iteracija pod b je: 60076090
+
+c) 
+	Brzi program je program napisan pod b jer se izrazavanjem jedne promenljive gubi najugnjezdenija petlja.
+	Posmatrano za najgori slucaj, program napisan pod a bi imao 710 puta vise iteracija od programa napisanog pod b.
+	
